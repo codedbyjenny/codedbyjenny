@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jenny 
 
-<!--
-**codedbyjenny/codedbyjenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an apprentice software developer based in Germany.  
+Currently learning C#, Git, and web development – and building up my skills step by step.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning goals
+- Clean and structured C# code (console + desktop)
+- Frontend basics (HTML, CSS, JavaScript)
+- Git & GitHub for version control
+- Building small real-world projects
+- Understanding software design & best practices
+
+---
+
+## Featured Repositories
+Coming soon – I'm currently working on my first public projects  
+Expect C# practice apps and early web dev experiments!
+
+---
+
+_This profile is part of my journey into software development – thanks for stopping by!_
